@@ -1,0 +1,11 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Root@123",
+      "database": "demo_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "logging": false,
+      "timezone": "+07:00"
+    }
+  }
